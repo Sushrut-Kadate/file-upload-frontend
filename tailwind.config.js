@@ -9,18 +9,18 @@ export default {
         mono: ['JetBrains Mono', 'monospace'],
       },
       colors: {
-        background: '#0a0a0f',
-        surface: '#111118',
-        border: '#1e1e2e',
+        background: '#ffffff',
+        surface: '#f8fafc',
+        border: '#e2e8f0',
         primary: {
           DEFAULT: '#6366f1',
           foreground: '#ffffff',
         },
         muted: {
-          DEFAULT: '#1e1e2e',
-          foreground: '#6b7280',
+          DEFAULT: '#f1f5f9',
+          foreground: '#64748b',
         },
-        foreground: '#e2e8f0',
+        foreground: '#0f172a',
         destructive: {
           DEFAULT: '#ef4444',
           foreground: '#ffffff',
